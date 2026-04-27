@@ -60,10 +60,10 @@ PostgreSQL
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* 🛡️ Developed Rapid Eye Security (RES) – Patented system
-* 🏐 Captain, Tamil Nadu Beach Throwball Team (3rd place – National Level)
+* Developed Rapid Eye Security (RES) – Patented system
+* Captain, Tamil Nadu Beach Throwball Team (3rd place – National Level)
 
 ---
 
