@@ -1,8 +1,8 @@
 # Hi, I'm Priyadharshini
 
 B.Tech Information Technology Student
-Coimbatore, India
-Passionate about Software Development & Problem Solving
+From Coimbatore, India.
+I'm Passionate about Software Development & Problem Solving
 
 ---
 
