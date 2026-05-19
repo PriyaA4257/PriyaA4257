@@ -69,7 +69,8 @@ PostgreSQL
 
 ## Certifications
 
-* NPTEL DBMS – Elite + Silver
+* NPTEL DBMS – Elite + Silver (75%)
+* NPTEL Programming in Java - Elite + Silver (78%)
 * Agile Project Management – HP Life
 
 ---
