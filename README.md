@@ -8,7 +8,7 @@ I'm Passionate about Software Development & Problem Solving
 
 ## About Me
 
-I am a dedicated and consistent student with a strong interest in building real-world software solutions. I enjoy solving problems, learning new technologies, and improving my coding skills every day.
+I am a consistent and focused student with a strong interest in building real-world software solutions. I enjoy solving problems, learning new technologies, and improving my coding skills every day.
 
 ---
 
