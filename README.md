@@ -76,7 +76,7 @@ PostgreSQL
 
 ## Soft Skills
 
-Problem Solving | Leadership | Responsibility | Attentive Listening
+Problem Solving | Leadership | Responsibility | Adaptability
 
 ---
 
